@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # sepehriansam1393-droid.github.io
 <html lang="en">
 <head>
